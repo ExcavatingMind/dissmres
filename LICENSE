@@ -1,0 +1,34 @@
+Revised Open Science Academic fair use license
+
+Copyright (c) 2023 RaphaelDerecki
+
+# Note on what software means
+Software within this license refers to the "Software" and the R code documents, dataset csv files, and DockerFiles. 
+It does not refer to the Word documents or PowerPoint documents; these are not allowed for use in the same way as the "Software"; permission must be sought.
+These are individual pieces of works that are used to show either a) a piece of marked, or soon-to-be-marked work for a course b) a piece of work whereby I retain the right to use solely for individual, 
+personal usage
+c) pieces of work for you, the viewer, to look at to see, among other things, dissertation structure, poster structure, literature review ideas, etc so that inspiration can be taken to better one's own research
+through your own criticality of the documentation. Simply, these are here within the repository for a) convenience
+b) 'cloud based' backups c) to demonstrate writing/design ability as part of a larger portfolio.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software with **few restrictions**, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, but not sublicense and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+### Restrictions
+To not sublicense or sell said copies or original of "the Software". Open source means open source.
+To cite the webpage if one has taken an 'original' idea from this repository.
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
