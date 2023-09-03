@@ -11,7 +11,6 @@ The Word document file for the dissertation draft provides a preprint style docu
 If you would like to ascertain how the experiment was run, you can follow the links to the GitLab repository to either run or examine these materials. It further contains all plots used and the PsychoPy file for running the experiment (among other things).
 `https://gitlab.pavlovia.org/Strain/exp_size_only`
 
-
 ### Analysis Within a Fully-Reproducible Computational Environment
 
 Resources are provided for the fully computational reproducible environment (R, Rstudio, and package versions) used for data wrangling, visualization, statistical modelling, and reporting.
@@ -41,6 +40,7 @@ The `anscombes_quartet.R` file contains the code used to produce the relatively 
 
 The `plot_conditions.R` file contains the code to produce example plots of both the size experiment (from this dissertation) and Strain et al. (2023) contrast plots (from which this dissertation is based on).
 
+The `final_data.csv` file contains the anonymous data used for the analysis.
 
 ### References
 
